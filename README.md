@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Riadujjaman Shanto, a Top-Rated WordPress Developer on Upwork with a strong track record of delivering high-quality solutions for clients worldwide. Good at designing modern, user-friendly, and responsive web pages. Known for clear communication and delivering expected results on time.
+Offering a mix of experience and value, helping clients keep everything in-house.
 
-<!--
-**shanto-w3dev/shanto-w3dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ⚡ Areas of Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **WordPress**: Custom themes & plugins, troubleshooting, optimization
+- **Frontend & Backend**: HTML, CSS, JavaScript, PHP, MySQL
+- **Page Builders**: Elementor, Divi, WPBakery, Gutenberg
+- **E-Commerce**: WooCommerce, CartFlows, Payment Gateway Integration
+- **Advanced Functionality**: Membership sites, booking systems, listings
+- **Performance**: Speed optimization, bug fixing, security hardening
+- **Hosting**: cPanel, Plesk, WPEngine, AWS, VPS, CyberPanel
+- **Automation & Integrations**: Zapier, Zoho, Cloudflare, APIs
+- **Analytics & SEO**: Google Analytics, reCAPTCHA, technical/on-page SEO
+
+---
+
+## 🚀 Featured Project
+
+**[Word Meaning Popup](https://github.com/shanto-w3dev/word-meaning-popup)**  
+A simple, user-friendly plugin that displays word meanings in a popup, enhancing user experience for content-heavy websites.
+
+---
+
+## 📫 Connect with Me
+
+- **LinkedIn**: [riadujjaman-shanto](https://www.linkedin.com/in/riadujjaman-shanto/)
+- **Portfolio**: [shanto.net](https://shanto.net/)
+
+---
+
+> **Let’s build something amazing together!**
