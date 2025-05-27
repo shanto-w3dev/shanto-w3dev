@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Riadujjaman Shanto, a Top-Rated WordPress Developer on Upwork with a strong track record of delivering high-quality solutions for clients worldwide. Good at designing modern, user-friendly, and responsive web pages. Known for clear communication and delivering expected results on time.
+# 👋 Hi, I'm Riadujjaman Shanto 
+
+A Top-Rated WordPress Developer on Upwork with a strong track record of delivering high-quality solutions for clients worldwide. Good at designing modern, user-friendly, and responsive web pages. Known for clear communication and delivering expected results on time.
 Offering a mix of experience and value, helping clients keep everything in-house.
 
 ---
