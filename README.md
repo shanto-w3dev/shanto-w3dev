@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Riadujjaman Shanto 
+# Hi, I'm Riadujjaman Shanto 
 
 A Top-Rated WordPress Developer on Upwork with a strong track record of delivering high-quality solutions for clients worldwide. Good at designing modern, user-friendly, and responsive web pages. Known for clear communication and delivering expected results on time.
 Offering a mix of experience and value, helping clients keep everything in-house.
 
 ---
 
-## ⚡ Areas of Expertise
+## Areas of Expertise
 
 - **WordPress**: Custom themes & plugins, troubleshooting, optimization
 - **Frontend & Backend**: HTML, CSS, JavaScript, PHP, MySQL
@@ -19,14 +19,14 @@ Offering a mix of experience and value, helping clients keep everything in-house
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 **[Word Meaning Popup](https://github.com/shanto-w3dev/word-meaning-popup)**  
 A simple, user-friendly plugin that displays word meanings in a popup, enhancing user experience for content-heavy websites.
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - **LinkedIn**: [riadujjaman-shanto](https://www.linkedin.com/in/riadujjaman-shanto/)
 - **Portfolio**: [shanto.net](https://shanto.net/)
