@@ -21,7 +21,7 @@ Offering a mix of experience and value, helping clients keep everything in-house
 
 ## Featured Projects
 
-**[Conditional Discount for Woocommerce](https://github.com/shanto-w3dev/Conditional-Discount-for-WooCommerce)**
+**[Conditional Discount for WooCommerce](https://github.com/shanto-w3dev/Conditional-Discount-for-WooCommerce)**
 Conditional Discount for WooCommerce is a lightweight and modular WordPress plugin that allows store owners to apply smart, rule-based discounts to WooCommerce products during cart and checkout.
 
 **[Word Meaning Popup](https://github.com/shanto-w3dev/word-meaning-popup)**  
