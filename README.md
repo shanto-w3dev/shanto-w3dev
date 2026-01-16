@@ -9,6 +9,7 @@ Offering a mix of experience and value, helping clients keep everything in-house
 
 - **WordPress**: Custom themes & plugins, troubleshooting, optimization
 - **Frontend & Backend**: HTML, CSS, JavaScript, PHP, MySQL
+- **Library & Framework**: ReactJS, jQuery, Tailwind, Bootstrap
 - **Page Builders**: Elementor, Divi, WPBakery, Gutenberg
 - **E-Commerce**: WooCommerce, CartFlows, Payment Gateway Integration
 - **Advanced Functionality**: Membership sites, booking systems, listings
